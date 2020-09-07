@@ -1,2 +1,4 @@
-server: 1332
-data: success
+data:
+  username: UserFirstName
+  password: PWD
+env: success
